@@ -13,5 +13,5 @@ Solution của các bài tập Olympic FIT SGU
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |1|Bài 1| [C++](./Solution/Tuần%201/bai_1.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|2|Bài 2| [C++](./Solution/Tu%E1%BA%A7n%201/bai_2.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|3|Bài 3| [C++](./C++/single-number-ii.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode | |
+|2|Bài 2| [C++](./Solution/Tuần%201/bai_2.cpp)| _O(n)_ | _O(n)_ | Easy | | |
+|3|Bài 3| [C++](./Solution/Tuần%201/bai_3.cpp)| _O(n)_ | _O(n)_ | Easy | | |
