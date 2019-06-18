@@ -12,6 +12,6 @@ Solution của các bài tập Olympic FIT SGU
 ## TUẦN 1
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|1|[Bài 1]| [C++](./C++/a-b-problem.cpp)| _O(1)_ | _O(1)_ | Medium | | |
-|2|[Bài 2]| [C++](./C++/single-number.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode| |
-|3|[Bài 3]| [C++](./C++/single-number-ii.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode | |
+|1|Bài 1| [C++](./C++/a-b-problem.cpp)| _O(1)_ | _O(1)_ | Medium | | |
+|2|Bài 2| [C++](./C++/single-number.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode| |
+|3|Bài 3| [C++](./C++/single-number-ii.cpp)| _O(n)_ | _O(1)_ | Easy | LeetCode | |
