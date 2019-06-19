@@ -3,9 +3,9 @@ Solution của các bài tập Olympic FIT SGU
 
 ## Problems
 * [Buổi 1](./Problems/Buổi%201/OLP%20FIT%20SGU%202019_B1.pdf)
-* [Buổi 2](./Problems/Buổi%201/OLP%20FIT%20SGU%202019_B2.pdf)
-* [Buổi 3](./Problems/Buổi%201/OLP%20FIT%20SGU%202019_B3.pdf)
-* [Buổi 4](./Problems/Buổi%201/Problems/Tu%E1%BA%A7n%204/OLP%20FIT%20SGU%202019_B4.pdf)
+* [Buổi 2](./Problems/Buổi%202/OLP%20FIT%20SGU%202019_B2.pdf)
+* [Buổi 3](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B3.pdf)
+* [Buổi 4](./Problems/Buổi%204/OLP%20FIT%20SGU%202019_B4.pdf)
 
 ## Solution
 
