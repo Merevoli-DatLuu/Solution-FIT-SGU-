@@ -5,6 +5,7 @@
 // Lehmer's Formula
 // Chạy Tốt Với n = 10^9
 
+// Code này của anh Nguyễn Tiến Trung Kiên
 #include <stdio.h>
 #include <math.h>
 #include <vector>
