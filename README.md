@@ -19,3 +19,7 @@ Solution của các bài tập Olympic FIT SGU
 |5|Bài 5| [C++](./Solution/Tuần%201/bai_5.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |6|Bài 6| [C++](./Solution/Tuần%201/bai_6.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |7|Bài 7| [C++](./Solution/Tuần%201/bai_7.cpp)| _O(n*sqrt(n))_ | _O(1)_ | Easy | | |
+
+## TUẦN 2
+| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
