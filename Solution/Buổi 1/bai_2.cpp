@@ -1,4 +1,4 @@
-// Time: O(nlogn)
+// Time: O(nlog(n))
 // Space: O(n)
 
 #include <iostream>
