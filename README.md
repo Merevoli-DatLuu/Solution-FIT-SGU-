@@ -17,5 +17,5 @@ Solution của các bài tập Olympic FIT SGU
 |3|Bài 3| [C++](./Solution/Tuần%201/bai_3.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |4|Bài 4| [C++](./Solution/Tuần%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |5|Bài 5| [C++](./Solution/Tuần%201/bai_5.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|6|Bài 6| [C++](./Solution/Tuần%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
+|6|Bài 6| [C++](./Solution/Tuần%201/bai_6.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |7|Bài 7| [C++](./Solution/Tuần%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
