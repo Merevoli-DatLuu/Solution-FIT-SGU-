@@ -23,4 +23,4 @@ Solution của các bài tập Olympic FIT SGU
 ### BUỔI 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|8|Bài 1| [C++](./Solution/Buổi%202/bai_1(1).cpp) [C++](./Solution/Buổi%202/bai_1(1).cpp) | _O(n*loglog(n))_ | _O(n)_ | Easy | | Sieve of Eratosthenes |
+|8|Bài 1| [C++](./Solution/Buổi%202/bai_1(1).cpp)  [C++](./Solution/Buổi%202/bai_1(1).cpp) | _O(n*loglog(n))_ | _O(n)_ | Easy | | Sieve of Eratosthenes |
