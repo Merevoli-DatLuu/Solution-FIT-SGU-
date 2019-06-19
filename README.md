@@ -13,7 +13,7 @@ Solution của các bài tập Olympic FIT SGU
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |1|Bài 1| [C++](./Solution/Buổi%201/bai_1.cpp)| _O(n)_ | _O(n)_ | Easy | | |
-|2|Bài 2| [C++](./Solution/Buổi%201/bai_2.cpp)| _O(n*logn)_ | _O(n)_ | Easy | | |
+|2|Bài 2| [C++](./Solution/Buổi%201/bai_2.cpp)| _O(n*log(n))_ | _O(n)_ | Easy | | |
 |3|Bài 3| [C++](./Solution/Buổi%201/bai_3.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |4|Bài 4| [C++](./Solution/Buổi%201/bai_4.cpp)| _O(n)_ | _O(n)_ | Easy | | |
 |5|Bài 5| [C++](./Solution/Buổi%201/bai_5.cpp)| _O(n)_ | _O(n)_ | Easy | | |
@@ -23,3 +23,4 @@ Solution của các bài tập Olympic FIT SGU
 ### BUỔI 2
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|8|Bài 1| [C++](./Solution/Buổi%202/bai_1(1).cpp)| _O(n*loglog(n))_ | _O(n)_ | Easy | | |
