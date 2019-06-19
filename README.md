@@ -1,5 +1,6 @@
 # Solution-FIT-SGU-
-Solution của các bài tập Olympic FIT SGU
+* Solution của các bài tập Olympic FIT SGU
+* 🔒: Có lưu ý trong bài tập
 
 ## Problems
 * [Buổi 1](./Problems/Buổi%201/OLP%20FIT%20SGU%202019_B1.pdf)
@@ -25,7 +26,11 @@ Solution của các bài tập Olympic FIT SGU
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |8|Bài 1| [C++](./Solution/Buổi%202/bai_1(1).cpp) | _O(n*loglog(n))_ | _O(n)_ | Easy | | Sieve of Eratosthenes |
 |9|Bài 1| [C++](./Solution/Buổi%202/bai_1(2).cpp) | _O(n)_ | _O(n)_ | Easy | | Sieve of Atkin |
-|10|Bài 1| [C++](./Solution/Buổi%202/bai_1(3).cpp) | _O(n/ln(n)^4)_ | _O(n)_ | Medium | | Lehmer's Formula |
+|10|Bài 1| [C++](./Solution/Buổi%202/bai_1(3).cpp) | _O(n/ln(n)^4)_ | _O(n)_ | Medium | 🔒 | Lehmer's Formula |
 |11|Bài 2| [C++](./Solution/Buổi%202/bai_2.cpp) | _O(n*log(n))_ | _O(1)_ | Easy | | |
-|12|Bài 3| [C++](./Solution/Buổi%202/bai_3.cpp) | _O(log5(n))_ | _O(1)_ | Easy | | |
-|13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | | |
+|12|Bài 3| [C++](./Solution/Buổi%202/bai_3.cpp) | _O(log5(n))_ | _O(1)_ | Easy | 🔒 | |
+|13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | 🔒 | |
+
+### BUỔI 3
+| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
