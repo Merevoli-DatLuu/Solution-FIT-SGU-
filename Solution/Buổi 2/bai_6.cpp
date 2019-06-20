@@ -155,6 +155,7 @@ string mu2(int n){
 
 void more32(){
     int n = Primes.size()-1;
+    // Primes[11] > 32
     for (int i = 11; i <= n; i++){
         cout << Sub(mu2(Primes[i]), "1") << "\n";
     }
