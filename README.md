@@ -30,7 +30,13 @@
 |11|Bài 2| [C++](./Solution/Buổi%202/bai_2.cpp) | _O(n*log(n))_ | _O(1)_ | Easy | | |
 |12|Bài 3| [C++](./Solution/Buổi%202/bai_3.cpp) | _O(log5(n))_ | _O(1)_ | Easy | 🔒 | |
 |13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | 🔒 | |
+|14|Bài 5| [C++](./Solution/Buổi%202/bai_5.cpp) | _O(log10(n))_ | _O(1)_ | Easy | | |
+|15|Bài 6| | | | | | |
+|16|Bài 7| | | | | | |
+|17|Bài 8| | | | | | |
+|18|Bài 9| | | | | | |
 
 ### BUỔI 3
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|19|Bài 1| [C++](./Solution/Buổi%203/bai_1.cpp) | _O(1)_ | _O(1)_ | Easy | | |
