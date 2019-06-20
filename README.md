@@ -29,7 +29,7 @@
 |10|Bài 1| [C++](./Solution/Buổi%202/bai_1(3).cpp) | _O(n/ln(n)^4)_ | _O(n)_ | Medium | [🔒](./NoteTag/B2_1.md) | Lehmer's Formula |
 |11|Bài 2| [C++](./Solution/Buổi%202/bai_2.cpp) | _O(n*log(n))_ | _O(1)_ | Easy | | |
 |12|Bài 3| [C++](./Solution/Buổi%202/bai_3.cpp) | _O(log5(n))_ | _O(1)_ | Easy | [🔒](./NoteTag/B2_3.md) | |
-|13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | 🔒 | |
+|13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | [🔒](./NoteTag/B2_4.md) | |
 |14|Bài 5| [C++](./Solution/Buổi%202/bai_5.cpp) | _O(log10(n))_ | _O(1)_ | Easy | | |
 |15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) | _O(log(log10(n))*log10(n)^2)_ | _O(n)_ | Easy | | |
 |16|Bài 7| | | | | | |
