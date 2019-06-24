@@ -52,4 +52,4 @@
 ### BUỔI 4
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|28|Bài 1| [C++](./Solution/bu%E1%BB%95i%204/bai_1.cpp)| _O(1)_ | _O(1)_ | Easy | | |
+|28|Bài 1| [C++](./Solution/Buổi%204/bai_1.cpp)| _O(1)_ | _O(1)_ | Easy | | |
