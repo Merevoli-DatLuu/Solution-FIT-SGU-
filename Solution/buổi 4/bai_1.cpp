@@ -1,3 +1,6 @@
+// Time: O(1)
+// Space: O(1)
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
