@@ -1,5 +1,6 @@
 // Time: O(n*log(n))
 // Space: O(n)
+// Có thể fix lại sort để Time: O(k*log(n))
 
 #include <iostream>
 #include <algorithm>
