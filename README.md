@@ -7,6 +7,9 @@
 * [Buổi 2](./Problems/Buổi%202/OLP%20FIT%20SGU%202019_B2.pdf)
 * [Buổi 3](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B3.pdf)
 * [Buổi 4](./Problems/Buổi%204/OLP%20FIT%20SGU%202019_B4.pdf)
+* [Buổi 5](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B5.pdf)
+* [Buổi 6](./Problems/Buổi%204/OLP%20FIT%20SGU%202019_B6.pdf)
+* [Buổi 7](./Problems/Buổi%203/OLP%20FIT%20SGU%202019_B7.pdf)
 
 ## Solution
 
