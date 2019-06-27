@@ -44,13 +44,6 @@ void solve(){
         }
     }
     
-    for (int i=1; i<=n; i++){
-        for (int j=1; j<=n; j++){
-            cout << a[j][i] << " ";
-        }
-        cout << "\n";
-    }
-    
     for (int k=1; k<=n; k++){
         for (int i=1; i<=n-k+1; i++){
             for (int j=1; j<=n-k+1; j++){
