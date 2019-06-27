@@ -66,4 +66,5 @@
 |32|Bài 1| [C++](./Solution/Buổi%205/bai_1.cpp) | _O(n*log(n))_ | _O(n)_ | Easy | | |
 |33|Bài 2| [C++](./Solution/Buổi%205/bai_2.cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | |
 |34|Bài 3| [C++](./Solution/Buổi%205/bai_3.cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | |
-|35|Bài 4| | | | | | |
+|35|Bài 4| [C++](./Solution/Buổi%205/bai_4.cpp) | _O(n)_ | _O(a^2)_ | Easy | | |
+|36|Bài 5| | | | | | |
