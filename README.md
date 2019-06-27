@@ -55,7 +55,7 @@
 ### BUỔI 4
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|28|Bài 1| [C++](./Solution/Buổi%204/bai_1.cpp)| _O(1)_ | _O(1)_ | Easy | | |
+|28|Bài 1| [C++](./Solution/Buổi%204/bai_1.cpp) | _O(1)_ | _O(1)_ | Easy | | |
 |29|Bài 2| | | | | | |
 |30|Bài 3| | | | | | |
 |31|Bài 4| | | | | | |
@@ -63,7 +63,7 @@
 ### BUỔI 5
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|32|Bài 1| [C++](./Solution/Buổi%205/bai_1.cpp)| _O(n*log(n))_ | _O(n)_ | Easy | | |
-|33|Bài 2| | | | | | |
+|32|Bài 1| [C++](./Solution/Buổi%205/bai_1.cpp) | _O(n*log(n))_ | _O(n)_ | Easy | | |
+|33|Bài 2| [C++](./Solution/Buổi%205/bai_2.cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | |
 |34|Bài 3| | | | | | |
 |35|Bài 4| | | | | | |
