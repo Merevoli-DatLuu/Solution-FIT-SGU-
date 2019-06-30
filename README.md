@@ -35,7 +35,7 @@
 |13|Bài 4| [C++](./Solution/Buổi%202/bai_4.cpp) | _O(log(n)*log10(n)^2)_ | _O(1)_ | Easy | [🔒](./NoteTag/B2_4.md) | |
 |14|Bài 5| [C++](./Solution/Buổi%202/bai_5.cpp) | _O(log10(n))_ | _O(1)_ | Easy | | |
 |15|Bài 6| [C++](./Solution/Buổi%202/bai_6.cpp) | _O(log(log10(n))*log10(n)^2)_ | _O(n)_ | Easy | | |
-|16|Bài 7| [C++](./Solution/Buổi%202/bai_7.cpp) | _O(|n|)_ | _O(|n|)_ | Easy | | |
+|16|Bài 7| [C++](./Solution/Buổi%202/bai_7.cpp) | _O(len(n))_ | _O(len(n))_ | Easy | | |
 |17|Bài 8| | | | | | |
 |18|Bài 9| | | | | | |
 
