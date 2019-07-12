@@ -76,4 +76,5 @@
 ### BUỔI 7
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|37|Bài 1| [C++](./Solution/Buổi%207/bai_1.cpp) | _O(m*log(m))_ | _O(max(m, n))_ | Easy | | |
+|37|Bài 1| [C++](./Solution/Buổi%207/bai_1.cpp) | _O(m*log(m))_ | _O(max(m, n))_ | Easy | | Krukal |
+|38|Bài 2| [C++](./Solution/Buổi%207/bai_2.cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Prim |
