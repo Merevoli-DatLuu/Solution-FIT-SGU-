@@ -65,7 +65,7 @@ void Xuat(){
         cout << d[f] << "\n";
         int F = f;
         while (s != F){
-            cout << F << "->";
+            cout << F << "<-";
             F = Trace[F];
         }
         cout << s;
