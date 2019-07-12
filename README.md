@@ -72,12 +72,24 @@
 ### BUỔI 6
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|37|Bài 1| [C++](./Solution/Buổi%206/bai_1.cpp) | | | | |
+|38|Bài 2| [C++](./Solution/Buổi%206/bai_2.cpp) | | | | |
+|39|Bài 3| [C++](./Solution/Buổi%206/bai_3.cpp) | | | | |
+|40|Bài 4| [C++](./Solution/Buổi%206/bai_4.cpp) | | | | |
+|41|Bài 5| [C++](./Solution/Buổi%206/bai_5.cpp) | | | | |
+|42|Bài 6| [C++](./Solution/Buổi%206/bai_6.cpp) | | | | |
+|43|Bài 7| [C++](./Solution/Buổi%206/bai_7.cpp) | | | | |
+|44|Bài 8| [C++](./Solution/Buổi%206/bai_8.cpp) | | | | |
+|45|Bài 9| [C++](./Solution/Buổi%206/bai_9.cpp) | | | | |
+|46|Bài 10| [C++](./Solution/Buổi%206/bai_10.cpp) | | | | |
+|47|Bài 11| [C++](./Solution/Buổi%206/bai_11.cpp) | | | | |
+|48|Bài 12| [C++](./Solution/Buổi%206/bai_12.cpp) | | | | |
 
 ### BUỔI 7
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|37|Bài 1| [C++](./Solution/Buổi%207/bai_1.cpp) | _O(m*log(m))_ | _O(max(m, n))_ | Easy | | Krukal |
-|38|Bài 2| [C++](./Solution/Buổi%207/bai_2.cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Prim |
-|39|Bài 3| [C++](./Solution/Buổi%207/bai_3(1).cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Dijkstra |
-|40|Bài 3| [C++](./Solution/Buổi%207/bai_3(2).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Ford Bellman |
-|41|Bài 3| [C++](./Solution/Buổi%207/bai_3(3).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Floyd |
+|49|Bài 1| [C++](./Solution/Buổi%207/bai_1.cpp) | _O(m*log(m))_ | _O(max(m, n))_ | Easy | | Krukal |
+|50|Bài 2| [C++](./Solution/Buổi%207/bai_2.cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Prim |
+|51|Bài 3| [C++](./Solution/Buổi%207/bai_3(1).cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Dijkstra |
+|52|Bài 3| [C++](./Solution/Buổi%207/bai_3(2).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Ford Bellman |
+|53|Bài 3| [C++](./Solution/Buổi%207/bai_3(3).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Floyd |
