@@ -82,7 +82,7 @@ void Xuat(){
 }
 
 int main(){
-    ios::sync_with_stdio(false); cin.tie(0); cout.tie(0);
+    ios::sync_with_stdio(false); cin.tie(0); cout.tie(0); // Off Đồng bộ stdin và stdout
     Nhap();
     init();
     KrusKal();
