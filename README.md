@@ -78,3 +78,6 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |37|Bài 1| [C++](./Solution/Buổi%207/bai_1.cpp) | _O(m*log(m))_ | _O(max(m, n))_ | Easy | | Krukal |
 |38|Bài 2| [C++](./Solution/Buổi%207/bai_2.cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Prim |
+|39|Bài 3| [C++](./Solution/Buổi%207/bai_3(1).cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Dijkstra |
+|40|Bài 3| [C++](./Solution/Buổi%207/bai_3(2).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Ford Bellman |
+|41|Bài 3| [C++](./Solution/Buổi%207/bai_3(3).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Floyd |
