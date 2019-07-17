@@ -72,18 +72,18 @@
 ### BUỔI 6
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|37|Bài 1| [C++](./Solution/Buổi%206/bai_1.cpp) | | | | |
-|38|Bài 2| [C++](./Solution/Buổi%206/bai_2.cpp) | | | | |
+|37|Bài 1| [C++](./Solution/Buổi%206/bai_1.cpp) | | | | DFS |
+|38|Bài 2| [C++](./Solution/Buổi%206/bai_2.cpp) | | | | BFS |
 |39|Bài 3| [C++](./Solution/Buổi%206/bai_3.cpp) | | | | |
 |40|Bài 4| [C++](./Solution/Buổi%206/bai_4.cpp) | | | | |
-|41|Bài 5| [C++](./Solution/Buổi%206/bai_5.cpp) | | | | |
-|42|Bài 6| [C++](./Solution/Buổi%206/bai_6.cpp) | | | | |
-|43|Bài 7| [C++](./Solution/Buổi%206/bai_7.cpp) | | | | |
+|41|Bài 5| [C++](./Solution/Buổi%206/bai_5.cpp) | | | | Liên Thông |
+|42|Bài 6| [C++](./Solution/Buổi%206/bai_6.cpp) | | | | Warshall |
+|43|Bài 7| [C++](./Solution/Buổi%206/bai_7.cpp) | | | | Tarjan|
 |44|Bài 8| [C++](./Solution/Buổi%206/bai_8.cpp) | | | | |
-|45|Bài 9| [C++](./Solution/Buổi%206/bai_9.cpp) | | | | |
-|46|Bài 10| [C++](./Solution/Buổi%206/bai_10.cpp) | | | | |
-|47|Bài 11| [C++](./Solution/Buổi%206/bai_11.cpp) | | | | |
-|48|Bài 12| [C++](./Solution/Buổi%206/bai_12.cpp) | | | | |
+|45|Bài 9| [C++](./Solution/Buổi%206/bai_9.cpp) | | | | Cầu Khớp |
+|46|Bài 10| [C++](./Solution/Buổi%206/bai_10.cpp) | | | | Hamilton Circuit |
+|47|Bài 11| [C++](./Solution/Buổi%206/bai_11.cpp) | | | | Euler Circuit |
+|48|Bài 12| [C++](./Solution/Buổi%206/bai_12.cpp) | | | | Max Clique |
 
 ### BUỔI 7
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
