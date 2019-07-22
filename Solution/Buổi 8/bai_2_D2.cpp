@@ -1,3 +1,6 @@
+// Time: O(n)
+// Space: O(n)
+
 #include <iostream>
 #include <fstream>
 
