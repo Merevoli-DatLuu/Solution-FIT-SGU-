@@ -93,3 +93,23 @@
 |51|Bài 3| [C++](./Solution/Buổi%207/bai_3(1).cpp) | _O(n^2)_ | _O(n^2)_ | Easy | | Dijkstra |
 |52|Bài 3| [C++](./Solution/Buổi%207/bai_3(2).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Ford Bellman |
 |53|Bài 3| [C++](./Solution/Buổi%207/bai_3(3).cpp) | _O(n^3)_ | _O(n^2)_ | Easy | | Floyd |
+|54|Bài 4| | | | | | |
+|55|Bài 5| | | | | | |
+
+### BUỔI 7
+| # | Title | Solution | Time | Space | Difficulty | Tag | Note |
+|---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
+|56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | | | | Easy | |
+|57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | | | | Easy | |
+|58| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | | | | Easy | |
+|59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | | | | Easy | |
+|60| A | | | | | | |
+|61| B | | | | | | |
+|62| C | | | | | | |
+|63| D | | | | | | |
+|64| E | | | | | | |
+|65| F | | | | | | |
+|66| G | | | | | | |
+|67| H | | | | | | |
+|68| I | | | | | | |
+|69| J | | | | | | |
