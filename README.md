@@ -10,6 +10,7 @@
 * [Buổi 5](./Problems/Buổi%205/OLP%20FIT%20SGU%202019_B5.pdf)
 * [Buổi 6](./Problems/Buổi%206/OLP%20FIT%20SGU%202019_B6.pdf)
 * [Buổi 7](./Problems/Buổi%207/OLP%20FIT%20SGU%202019_B7.pdf)
+* [Buổi 8](./Problems/Buổi%207/OLP%20FIT%20SGU%202019_B8.pdf)
 
 ## Solution
 
@@ -96,13 +97,13 @@
 |54|Bài 4| | | | | | |
 |55|Bài 5| | | | | | |
 
-### BUỔI 7
+### BUỔI 8
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | | | | Easy | |
 |57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | | | | Easy | |
 |58| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | | | | Easy | |
-|59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | | | | Easy | |
+|59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_3_D2.cpp) | | | | Easy | |
 |60| A | | | | | | |
 |61| B | | | | | | |
 |62| C | | | | | | |
