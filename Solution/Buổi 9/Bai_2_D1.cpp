@@ -28,4 +28,6 @@ void solve(){
 int main(){
     Nhap();
     solve();
+    fi.close();
+    fo.close();
 }
