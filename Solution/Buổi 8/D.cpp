@@ -1,4 +1,4 @@
-// Time: O(t*n*|s|^2)
+// Time: O(t*n*|s|^3)
 // Space: (n*|s|)
 
 #include <iostream>
