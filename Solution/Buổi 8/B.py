@@ -1,5 +1,5 @@
-// Time: O(log10(P))
-// Space: O(1)
+# Time: O(log10(P))
+# Space: O(1)
 
 t = int(input())
 
