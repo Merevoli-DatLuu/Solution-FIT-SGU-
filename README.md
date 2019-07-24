@@ -108,7 +108,7 @@
 |60| A | [C++](./Solution/Buổi%208/A.cpp) | _O(n*log(n))_ | _O(1)_ | | Easy | |
 |61| B | [Python](./Solution/Buổi%208/B.py) | _O(log10(P))_ | _O(1)_ | | Easy | |
 |62| C | [C++](./Solution/Buổi%208/C.cpp) | _O(b*log(log(b)))_ | _O(b)_ | | Easy | |
-|63| D | [C++](./Solution/Buổi%208/D.cpp) | _O(t*n*len(s)^2)_ | _(n*len(s))_ | | Medium | |
+|63| D | [C++](./Solution/Buổi%208/D.cpp) | _O(t*n *len(s)^3)_ | _(n*len(s))_ | | Medium | |
 |64| E | | | | | | |
 |65| F | | | | | | |
 |66| G | | | | | | |
