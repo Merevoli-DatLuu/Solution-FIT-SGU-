@@ -100,7 +100,7 @@
 ### BUỔI 8
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | _O(n*len(s))_ | _O(len(s))_ | Easy | |
+|56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | _O(n*len(s))_ | _O(len(s))_ | | Easy | |
 |57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | _O(len(s))_ | _O(len(s))_ | | Easy | |
 |58| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | _O(n)_ | _O(n)_ | | Easy | |
 |59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_3_D2.cpp) | _O(len(s))_ | _O(len(s))_ | | Easy | |
