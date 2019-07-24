@@ -107,7 +107,7 @@
 |60| A | [C++](./Solution/Buổi%208/A.cpp) | | | | Easy | |
 |61| B | [Python](./Solution/Buổi%208/B.py) | | | | Easy | |
 |62| C | [C++](./Solution/Buổi%208/C.cpp) | | | | Easy | |
-|63| D | | | | | | |
+|63| D | [C++](./Solution/Buổi%208/D.cpp) | | | | Easy | |
 |64| E | | | | | | |
 |65| F | | | | | | |
 |66| G | | | | | | |
