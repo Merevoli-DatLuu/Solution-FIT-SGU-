@@ -100,14 +100,14 @@
 ### BUỔI 8
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | _O(n*|s|)_ | _O(|s|)_ | | Easy | |
-|57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | _O(|s|)_ | _O(|s|)_ | | Easy | |
+|56| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_2_D1.cpp) | _O(n*len(s)|)_ | _O(len(s))_ | Easy | |
+|57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | _O(len(s))_ | _O(len(s))_ | | Easy | |
 |58| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | _O(n)_ | _O(n)_ | | Easy | |
-|59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_3_D2.cpp) | _O(|s|)_ | _O(|s|)_ | | Easy | |
+|59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_3_D2.cpp) | _O(len(s))_ | _O(len(s))_ | | Easy | |
 |60| A | [C++](./Solution/Buổi%208/A.cpp) | _O(n*log(n))_ | _O(1)_ | | Easy | |
 |61| B | [Python](./Solution/Buổi%208/B.py) | _O(log10(P))_ | _O(1)_ | | Easy | |
 |62| C | [C++](./Solution/Buổi%208/C.cpp) | _O(b*log(log(b)))_ | _O(b)_ | | Easy | |
-|63| D | [C++](./Solution/Buổi%208/D.cpp) | _O(t*n*|s|^2)_ | _(n*|s|)_ | | Medium | |
+|63| D | [C++](./Solution/Buổi%208/D.cpp) | _O(t*n*len(s)^2)_ | _(n*len(s))_ | | Medium | |
 |64| E | | | | | | |
 |65| F | | | | | | |
 |66| G | | | | | | |
