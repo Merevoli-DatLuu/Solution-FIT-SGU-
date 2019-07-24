@@ -73,13 +73,13 @@
 ### BUỔI 6
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
-|37|Bài 1| [C++](./Solution/Buổi%206/bai_1.cpp) | | | | | DFS |
-|38|Bài 2| [C++](./Solution/Buổi%206/bai_2.cpp) | | | | | BFS |
-|39|Bài 3| [C++](./Solution/Buổi%206/bai_3.cpp) | | | | | |
-|40|Bài 4| [C++](./Solution/Buổi%206/bai_4.cpp) | | | | | |
-|41|Bài 5| [C++](./Solution/Buổi%206/bai_5.cpp) | | | | | Liên Thông |
-|42|Bài 6| [C++](./Solution/Buổi%206/bai_6.cpp) | | | | | Warshall |
-|43|Bài 7| [C++](./Solution/Buổi%206/bai_7.cpp) | | | | | Tarjan|
+|37|Bài 1| [C++](./Solution/Buổi%206/bai_1.cpp) | _O(n^2)_ | _O(n^2)_ | | | DFS |
+|38|Bài 2| [C++](./Solution/Buổi%206/bai_2.cpp) | _O(n^2)_ | _O(n^2)_ | | | BFS |
+|39|Bài 3| [C++](./Solution/Buổi%206/bai_3.cpp) | _O(n^2)_ | _O(n^2)_ | | | |
+|40|Bài 4| [C++](./Solution/Buổi%206/bai_4.cpp) | _O(n^2)_ | _O(n^2)_ | | | |
+|41|Bài 5| [C++](./Solution/Buổi%206/bai_5.cpp) | _O(n^2)_ | _O(n^2)_ _O(n^3)_ | _O(n^2)_ | | Kiểm Tra Liên Thông |
+|42|Bài 6| [C++](./Solution/Buổi%206/bai_6.cpp) | _O(n^3)_ | _O(n^2)_ | | | Warshall |
+|43|Bài 7| [C++](./Solution/Buổi%206/bai_7.cpp) | _O(n^2)_ | _O(n^2)_ | | | Tarjan|
 |44|Bài 8| [C++](./Solution/Buổi%206/bai_8.cpp) | | | | | |
 |45|Bài 9| [C++](./Solution/Buổi%206/bai_9.cpp) | | | | | Cầu Khớp |
 |46|Bài 10| [C++](./Solution/Buổi%206/bai_10.cpp) | | | | | Hamilton Circuit |
