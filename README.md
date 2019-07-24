@@ -104,9 +104,9 @@
 |57| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%208/bai_3_D1.cpp) | | | | Easy | |
 |58| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_2_D2.cpp) | | | | Easy | |
 |59| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%208/bai_3_D2.cpp) | | | | Easy | |
-|60| A | | | | | | |
-|61| B | | | | | | |
-|62| C | | | | | | |
+|60| A | [C++](./Solution/Buổi%208/A.cpp) | | | | Easy | |
+|61| B | [Python](./Solution/Buổi%208/B.py) | | | | Easy | |
+|62| C | [C++](./Solution/Buổi%208/C.cpp) | | | | Easy | |
 |63| D | | | | | | |
 |64| E | | | | | | |
 |65| F | | | | | | |
