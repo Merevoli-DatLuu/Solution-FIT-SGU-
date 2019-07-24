@@ -121,7 +121,7 @@
 | # | Title | Solution | Time | Space | Difficulty | Tag | Note |
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |70| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%209/Bai_2_D1.cpp) | _O(len(Q))_ | _O(1)_ | | Easy | |
-|71| Bài 3 (Cao Đẳng) | | | | | | |
+|71| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%209/Bai_3_D1.cpp) | _O(1)_ | _O(1)_ | | Easy | |
 |72| Bài 2 (Không Chuyên) | | | | | | |
 |73| Bài 3 (Không Chuyên) | | | | | | |
 |74| Bài 1 (Chuyên) | | | | | | |
