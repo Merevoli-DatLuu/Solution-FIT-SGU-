@@ -1,4 +1,4 @@
-# Time: O(n)
+# Time: O(n*log(n))
 # Space: O(n)
 
 n = int(input())
