@@ -1,3 +1,6 @@
+# Time: O(n)
+# Space: O(n)
+
 n = int(input())
 a = [int(s) for s in input().split(' ')]
 
