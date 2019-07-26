@@ -122,8 +122,8 @@
 |---| ----- | -------- | ---- | ----- | ---------- | --- | ---- |
 |70| Bài 2 (Cao Đẳng) | [C++](./Solution/Buổi%209/Bai_2_D1.cpp) | _O(len(Q))_ | _O(1)_ | | Easy | |
 |71| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%209/Bai_3_D1.cpp) | _O(1)_ | _O(1)_ | | Easy | |
-|72| Bài 2 (Không Chuyên) | | | | | | |
-|73| Bài 3 (Không Chuyên) | | | | | | |
+|72| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%209/Bai_2_D2.cpp) | _O(n*log10(n))_ | _O(1)_ | | Easy | |
+|73| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%209/Bai_3_D2.cpp) | _O(1)_ | _O(1)_ | | Easy | |
 |74| Bài 1 (Chuyên) | | | | | | |
 |75| Bài 2 (Chuyên) | | | | | | |
 |76| Bài 3 (Chuyên) | | | | | | |
