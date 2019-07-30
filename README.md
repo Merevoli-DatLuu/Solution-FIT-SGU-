@@ -124,7 +124,7 @@
 |71| Bài 3 (Cao Đẳng) | [C++](./Solution/Buổi%209/Bai_3_D1.cpp) | _O(1)_ | _O(1)_ | | Easy | |
 |72| Bài 2 (Không Chuyên) | [C++](./Solution/Buổi%209/Bai_2_D2.cpp) | _O(n*log10(n))_ | _O(1)_ | | Easy | |
 |73| Bài 3 (Không Chuyên) | [C++](./Solution/Buổi%209/Bai_3_D2.cpp) | _O(1)_ | _O(1)_ | | Easy | |
-|74| Bài 1 (Chuyên) | | | | | | |
+|74| Bài 1 (Chuyên) | [**C++**](./Solution/Buổi%209/Bai_1_D3.cpp) | _O(n)_ | _O(n)_ | | Easy | |
 |75| Bài 2 (Chuyên) | [**C++**](./Solution/Buổi%209/Bai_2_D3.cpp) | _O(n^2*m^2)_ | _(n^2)_ | | Easy | |
 |76| Bài 3 (Chuyên) | | | | | | |
 |77| Bài 1 (Siêu Cúp) | | | | | | |
